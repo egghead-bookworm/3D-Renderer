@@ -1,5 +1,5 @@
 # 3D-Renderer
-A 3D Rendered made in python using the turtle module.
+A 3D Renderer made in python using the turtle module.
 
 # Note
 The axes are flipped, so $+x$ appears to be $-x$ and so on.
