@@ -2,7 +2,7 @@
 A 3D Rendered made in python using the turtle module.
 
 # Note
-The axes are flipped, so $+ve x$ appears to be $-ve x$ and so on.
+The axes are flipped, so $+x$ appears to be $-x$ and so on.
 
 # Improvements
 Here are a few things that I couldn't add:
